@@ -1,9 +1,9 @@
-#Weather App
+#Stop-Watch
 
 A mini Stop Watch Timer.Its a simple stopwatch with some fun functionality. Done this project using react vite
 Demo
 
-#Demo Link :-
+#Demo Link :- https://unrivaled-empanada-98d402.netlify.app/
 
 #START
 ##Clone the project
